@@ -1,3 +1,6 @@
+## Note
+***Atom's been archived, but I've tried this script on Debian 11 and Fedora 38 and it installed the latest stable release 1.60***
+
 # About
 A simple bash script to install [Atom](https://atom.io/) on Linux.
 
